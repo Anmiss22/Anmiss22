@@ -1,0 +1,16 @@
+proxies:
+  - name: "923-UST-8-eas1"
+    type: vless
+    server: 923-8-9.gztk.xyz
+    port: 36447
+    uuid: e66561db-efe6-4191-89e8-7dd5318aad43
+    flow: xtls-rprx-vision
+    encryption: none
+    network: tcp
+    tls: true
+    reality-opts:
+      public-key: 9j-wyBOSrH5PMA89dPt39s395rJHEiuPQ6-_0dS5nFo
+      short-id: 8a5a694d9751ee
+      spider-x: "/"
+    servername: yahoo.com
+    fingerprint: random
